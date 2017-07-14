@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[Les Chroniques du Vieux Royaume]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Mattew F. Duskink]]></AuthorName>
+		<CollabFolder></CollabFolder>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LastFullBackup>2017-07-14</LastFullBackup>
+		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
+		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
+		<MRUSpecificDate>0717-06-04</MRUSpecificDate>
+		<MRUSpecificTime>00:00</MRUSpecificTime>
+		<LastViewedScID>2</LastViewedScID>
+		<DeadlineDate1>1899-12-30</DeadlineDate1>
+		<DeadlineDate2>1899-12-30</DeadlineDate2>
+		<DeadlineDate3>1899-12-30</DeadlineDate3>
+		<DeadlineDate4>1899-12-30</DeadlineDate4>
+		<DeadlineDate5>1899-12-30</DeadlineDate5>
+		<DeadlineStartDate1>1899-12-30</DeadlineStartDate1>
+		<DeadlineStartDate2>1899-12-30</DeadlineStartDate2>
+		<DeadlineStartDate3>1899-12-30</DeadlineStartDate3>
+		<DeadlineStartDate4>1899-12-30</DeadlineStartDate4>
+		<DeadlineStartDate5>1899-12-30</DeadlineStartDate5>
+	</PROJECT>
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[Temple nain du Père de Deux-Rus sur Mer]]></Title>
+	</LOCATION>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Hardunn]]></Title>
+		<Desc><![CDATA[Nain demi-dragon de bronze
+
+1m30 au début, 1m55 à l'âge adulte
+82kg au début, 125kg à l'age adulte
+
+poils gris-roux
+yeux jaune orangé aux pupilles allongées
+peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]></Desc>
+		<AKA><![CDATA[le Vagabond]]></AKA>
+		<FullName><![CDATA[Hardunn du clan de l'Ours Vert]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Grand prêtre du Père]]></Title>
+		<Desc><![CDATA[Nain aveugle et agé
+
+1m21 et 85kg]]></Desc>
+		<FullName><![CDATA[Boort du Clan du Pied d'Acier]]></FullName>
+	</CHARACTER>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Prologue]]></Title>
+		<Tags><![CDATA[Autres]]></Tags>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>105</WordCount>
+		<LetterCount>610</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Le prêtre]]></Title>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0717-06-04</SpecificDateTime>
+		<LastsMinutes>20</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>591</WordCount>
+		<LetterCount>3431</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Prologue]]></Title>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[Le Vagabond I]]></Title>
+		<Desc><![CDATA[Hardunn a été tabassé sur ordre de son père et se destine à la prêtrise]]></Desc>
+		<SectionStart>-1</SectionStart>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>2</ScID>
+		</Scenes>
+	</CHAPTER>
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2017-07-14</Date>
+		<Count>696</Count>
+		<TotalCount>696</TotalCount>
+	</WC>
+	</WCLog>
+</YWRITER5>
