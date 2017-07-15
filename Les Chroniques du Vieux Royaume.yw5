@@ -27,7 +27,7 @@
 		<LastFullBackup>2017-07-14</LastFullBackup>
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
-		<MRUSpecificDate>0717-06-04</MRUSpecificDate>
+		<MRUSpecificDate>0718-06-21</MRUSpecificDate>
 		<MRUSpecificTime>00:00</MRUSpecificTime>
 		<LastViewedScID>2</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
@@ -48,6 +48,11 @@
 	</LOCATION>
 	</LOCATIONS>
 	<ITEMS>
+	<ITEM>
+		<ID>1</ID>
+		<Title><![CDATA[Anneau de l'Ours]]></Title>
+		<Desc><![CDATA[anneau de pierre représentant une tête d'ours donc la gueule est ouverte autour du doigt de son porteur]]></Desc>
+	</ITEM>
 	</ITEMS>
 	<CHARACTERS>
 	<CHARACTER>
@@ -72,6 +77,17 @@ peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]>
 
 1m21 et 85kg]]></Desc>
 		<FullName><![CDATA[Boort du Clan du Pied d'Acier]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Jéun Eloïn]]></Title>
+		<Desc><![CDATA[Dragon de bronze ayant pris une forme humaine
+
+71kg, 1m77
+
+Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa longévité lui vient d'un sang en partie elfique]]></Desc>
+		<AKA><![CDATA[Aïanyak]]></AKA>
+		<Major>-1</Major>
 	</CHARACTER>
 	</CHARACTERS>
 	<PROJECTNOTES>
@@ -108,7 +124,8 @@ peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]>
 	</SCENE>
 	<SCENE>
 		<ID>2</ID>
-		<Title><![CDATA[Le prêtre]]></Title>
+		<Title><![CDATA[I : Le prêtre]]></Title>
+		<Desc><![CDATA[Hardunn a été passé à tabac et trouve refuge au temple du Père des nains]]></Desc>
 		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
@@ -131,6 +148,31 @@ peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]>
 		<Items>
 		</Items>
 	</SCENE>
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[II : l'anneau]]></Title>
+		<Desc><![CDATA[Hardunn maîtrise les sorts de base d'un prêtre mais il lui faut un talisman pour mieux les canaliser]]></Desc>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0718-06-21</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>489</WordCount>
+		<LetterCount>2719</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
 	</SCENES>
 	<CHAPTERS>
 	<CHAPTER>
@@ -143,12 +185,13 @@ peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]>
 	</CHAPTER>
 	<CHAPTER>
 		<ID>2</ID>
-		<Title><![CDATA[Le Vagabond I]]></Title>
-		<Desc><![CDATA[Hardunn a été tabassé sur ordre de son père et se destine à la prêtrise]]></Desc>
+		<Title><![CDATA[Le Vagabond]]></Title>
+		<Desc><![CDATA[Hardunn est un nain demi-dragon de bronze]]></Desc>
 		<SectionStart>-1</SectionStart>
 		<Type>0</Type>
 		<Scenes>
 			<ScID>2</ScID>
+			<ScID>3</ScID>
 		</Scenes>
 	</CHAPTER>
 	</CHAPTERS>
@@ -157,6 +200,11 @@ peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]>
 		<Date>2017-07-14</Date>
 		<Count>696</Count>
 		<TotalCount>696</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-15</Date>
+		<Count>1185</Count>
+		<TotalCount>1185</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>
