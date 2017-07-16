@@ -28,7 +28,7 @@
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
 		<MRUSpecificDate>0718-06-21</MRUSpecificDate>
-		<MRUSpecificTime>00:00</MRUSpecificTime>
+		<MRUSpecificTime>21:00</MRUSpecificTime>
 		<LastViewedScID>2</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
 		<DeadlineDate2>1899-12-30</DeadlineDate2>
@@ -46,12 +46,18 @@
 		<ID>1</ID>
 		<Title><![CDATA[Temple nain du Père de Deux-Rus sur Mer]]></Title>
 	</LOCATION>
+	<LOCATION>
+		<ID>2</ID>
+		<Title><![CDATA[Manoir de Jéun Eloïn]]></Title>
+	</LOCATION>
 	</LOCATIONS>
 	<ITEMS>
 	<ITEM>
 		<ID>1</ID>
 		<Title><![CDATA[Anneau de l'Ours]]></Title>
-		<Desc><![CDATA[anneau de pierre représentant une tête d'ours donc la gueule est ouverte autour du doigt de son porteur]]></Desc>
+		<Desc><![CDATA[anneau de pierre représentant une tête d'ours donc la gueule est ouverte autour du doigt de son porteur
+
+Hardunn le porte à l'index droit]]></Desc>
 	</ITEM>
 	</ITEMS>
 	<CHARACTERS>
@@ -66,17 +72,26 @@
 poils gris-roux
 yeux jaune orangé aux pupilles allongées
 peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]></Desc>
+		<SortOrder>1</SortOrder>
 		<AKA><![CDATA[le Vagabond]]></AKA>
 		<FullName><![CDATA[Hardunn du clan de l'Ours Vert]]></FullName>
 		<Major>-1</Major>
 	</CHARACTER>
 	<CHARACTER>
-		<ID>2</ID>
-		<Title><![CDATA[Grand prêtre du Père]]></Title>
-		<Desc><![CDATA[Nain aveugle et agé
+		<ID>4</ID>
+		<Title><![CDATA[Draha]]></Title>
+		<Desc><![CDATA[Naine
 
-1m21 et 85kg]]></Desc>
-		<FullName><![CDATA[Boort du Clan du Pied d'Acier]]></FullName>
+1m00 au début, 45kg
+1m19 adulte, 65kg
+
+peau brun-gris
+yeux vert forêt (rare)
+cheveux brun-gris]]></Desc>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[L'Indigne]]></AKA>
+		<FullName><![CDATA[Draha du clan de l'Ours Vert]]></FullName>
+		<Major>-1</Major>
 	</CHARACTER>
 	<CHARACTER>
 		<ID>3</ID>
@@ -86,8 +101,18 @@ peau grisâtre avec des écailles par endroit notamment devant l'oreille droite]]>
 71kg, 1m77
 
 Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa longévité lui vient d'un sang en partie elfique]]></Desc>
+		<SortOrder>3</SortOrder>
 		<AKA><![CDATA[Aïanyak]]></AKA>
 		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Grand prêtre du Père]]></Title>
+		<Desc><![CDATA[Nain aveugle et agé
+
+1m21 et 85kg]]></Desc>
+		<SortOrder>4</SortOrder>
+		<FullName><![CDATA[Boort du clan du Pied d'Acier]]></FullName>
 	</CHARACTER>
 	</CHARACTERS>
 	<PROJECTNOTES>
@@ -124,7 +149,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 	</SCENE>
 	<SCENE>
 		<ID>2</ID>
-		<Title><![CDATA[I : Le prêtre]]></Title>
+		<Title><![CDATA[I : le prêtre]]></Title>
 		<Desc><![CDATA[Hardunn a été passé à tabac et trouve refuge au temple du Père des nains]]></Desc>
 		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
@@ -155,7 +180,8 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-21</SpecificDateTime>
+		<SpecificDateTime>0718-06-21 17:00</SpecificDateTime>
+		<LastsMinutes>30</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
@@ -169,6 +195,55 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		</Characters>
 		<Locations>
 			<LocID>1</LocID>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[III : le vol]]></Title>
+		<Desc><![CDATA[Hardunn se saisit de l'anneau et rencontre le dieu du temps]]></Desc>
+		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0718-06-21 21:00</SpecificDateTime>
+		<LastsMinutes>20</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>580</WordCount>
+		<LetterCount>3339</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>3</CharID>
+		</Characters>
+		<Locations>
+			<LocID>2</LocID>
+		</Locations>
+		<Items>
+			<ItemID>1</ItemID>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[New Scene]]></Title>
+		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0718-06-21 17:00</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+		</Characters>
+		<Locations>
 		</Locations>
 		<Items>
 		</Items>
@@ -192,6 +267,17 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<Scenes>
 			<ScID>2</ScID>
 			<ScID>3</ScID>
+			<ScID>4</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[L'Indigne]]></Title>
+		<Desc><![CDATA[Draha est une naine un peu farfelue]]></Desc>
+		<SectionStart>-1</SectionStart>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>5</ScID>
 		</Scenes>
 	</CHAPTER>
 	</CHAPTERS>
@@ -205,6 +291,11 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<Date>2017-07-15</Date>
 		<Count>1185</Count>
 		<TotalCount>1185</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-16</Date>
+		<Count>1765</Count>
+		<TotalCount>1765</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>
