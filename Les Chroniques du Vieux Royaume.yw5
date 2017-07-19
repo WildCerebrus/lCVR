@@ -24,12 +24,12 @@
 		<HtmlSceneDivider></HtmlSceneDivider>
 		<HtmlEncoding></HtmlEncoding>
 		<HtmlUnicode>0</HtmlUnicode>
-		<LastFullBackup>2017-07-14</LastFullBackup>
+		<LastFullBackup>2017-07-17</LastFullBackup>
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
-		<MRUSpecificDate>0718-06-21</MRUSpecificDate>
-		<MRUSpecificTime>21:00</MRUSpecificTime>
-		<LastViewedScID>2</LastViewedScID>
+		<MRUSpecificDate>0402-10-11</MRUSpecificDate>
+		<MRUSpecificTime>13:00</MRUSpecificTime>
+		<LastViewedScID>5</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
 		<DeadlineDate2>1899-12-30</DeadlineDate2>
 		<DeadlineDate3>1899-12-30</DeadlineDate3>
@@ -45,10 +45,16 @@
 	<LOCATION>
 		<ID>1</ID>
 		<Title><![CDATA[Temple nain du Père de Deux-Rus sur Mer]]></Title>
+		<SortOrder>1</SortOrder>
 	</LOCATION>
 	<LOCATION>
 		<ID>2</ID>
 		<Title><![CDATA[Manoir de Jéun Eloïn]]></Title>
+		<SortOrder>2</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>3</ID>
+		<Title><![CDATA[Creux-du-Père]]></Title>
 	</LOCATION>
 	</LOCATIONS>
 	<ITEMS>
@@ -58,6 +64,12 @@
 		<Desc><![CDATA[anneau de pierre représentant une tête d'ours donc la gueule est ouverte autour du doigt de son porteur
 
 Hardunn le porte à l'index droit]]></Desc>
+		<SortOrder>1</SortOrder>
+	</ITEM>
+	<ITEM>
+		<ID>2</ID>
+		<Title><![CDATA[Journal de Draha]]></Title>
+		<Desc><![CDATA[Journal intime de Draha]]></Desc>
 	</ITEM>
 	</ITEMS>
 	<CHARACTERS>
@@ -180,7 +192,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-21 17:00</SpecificDateTime>
+		<SpecificDateTime>0718-06-22 07:00</SpecificDateTime>
 		<LastsMinutes>30</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -206,7 +218,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-21 21:00</SpecificDateTime>
+		<SpecificDateTime>0718-06-22 03:00</SpecificDateTime>
 		<LastsMinutes>20</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -228,24 +240,28 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 	</SCENE>
 	<SCENE>
 		<ID>5</ID>
-		<Title><![CDATA[New Scene]]></Title>
+		<Title><![CDATA[le carnet]]></Title>
 		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
 		<BelongsToChID>3</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-21 17:00</SpecificDateTime>
+		<SpecificDateTime>0402-10-11 13:00</SpecificDateTime>
+		<LastsMinutes>40</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
 		<Field3>1</Field3>
 		<Field4>1</Field4>
-		<Status>1</Status>
-		<WordCount>0</WordCount>
-		<LetterCount>0</LetterCount>
+		<Status>2</Status>
+		<WordCount>548</WordCount>
+		<LetterCount>3152</LetterCount>
 		<Characters>
 			<CharID>4</CharID>
+			<CharID>1</CharID>
 		</Characters>
 		<Locations>
+			<LocID>3</LocID>
 		</Locations>
 		<Items>
+			<ItemID>2</ItemID>
 		</Items>
 	</SCENE>
 	</SCENES>
@@ -253,6 +269,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 	<CHAPTER>
 		<ID>1</ID>
 		<Title><![CDATA[Prologue]]></Title>
+		<SortOrder>1</SortOrder>
 		<Type>0</Type>
 		<Scenes>
 			<ScID>1</ScID>
@@ -262,6 +279,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<ID>2</ID>
 		<Title><![CDATA[Le Vagabond]]></Title>
 		<Desc><![CDATA[Hardunn est un nain demi-dragon de bronze]]></Desc>
+		<SortOrder>2</SortOrder>
 		<SectionStart>-1</SectionStart>
 		<Type>0</Type>
 		<Scenes>
@@ -274,6 +292,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<ID>3</ID>
 		<Title><![CDATA[L'Indigne]]></Title>
 		<Desc><![CDATA[Draha est une naine un peu farfelue]]></Desc>
+		<SortOrder>3</SortOrder>
 		<SectionStart>-1</SectionStart>
 		<Type>0</Type>
 		<Scenes>
@@ -294,8 +313,18 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 	</WC>
 	<WC>
 		<Date>2017-07-16</Date>
-		<Count>1765</Count>
-		<TotalCount>1765</TotalCount>
+		<Count>1950</Count>
+		<TotalCount>1950</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-17</Date>
+		<Count>1950</Count>
+		<TotalCount>1950</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-19</Date>
+		<Count>2313</Count>
+		<TotalCount>2313</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>
