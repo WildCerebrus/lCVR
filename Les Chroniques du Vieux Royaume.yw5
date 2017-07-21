@@ -27,9 +27,9 @@
 		<LastFullBackup>2017-07-21</LastFullBackup>
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
-		<MRUSpecificDate>0402-12-23</MRUSpecificDate>
-		<MRUSpecificTime>23:00</MRUSpecificTime>
-		<LastViewedScID>6</LastViewedScID>
+		<MRUSpecificDate>0718-07-22</MRUSpecificDate>
+		<MRUSpecificTime>14:00</MRUSpecificTime>
+		<LastViewedScID>7</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
 		<DeadlineDate2>1899-12-30</DeadlineDate2>
 		<DeadlineDate3>1899-12-30</DeadlineDate3>
@@ -56,6 +56,13 @@
 		<ID>3</ID>
 		<Title><![CDATA[Creux-du-Père]]></Title>
 		<SortOrder>3</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>4</ID>
+		<Title><![CDATA[L'Œil-Blanc]]></Title>
+		<Desc><![CDATA[Grand lac de près de 80 kilomètres de long (Ouest-Est) et 35 de large (Nord-Sud)
+
+Il est couvert de brumes depuis le Cataclysme et alimente le fleuve jaune en direction de Deux-Rus sur Mer]]></Desc>
 	</LOCATION>
 	</LOCATIONS>
 	<ITEMS>
@@ -144,6 +151,16 @@ Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père q
 		<ID>7</ID>
 		<Title><![CDATA[Gunelda]]></Title>
 		<Desc><![CDATA[Mère de Draha]]></Desc>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[Rohan]]></Title>
+		<Desc><![CDATA[gnome d'un age indéfinissable
+
+cheveux blancs avec des mèches teintes de couleurs vives
+peau jaune
+yeux vert clair]]></Desc>
+		<FullName><![CDATA[Rohan "L'Impromptu" Piedjoyeux]]></FullName>
 	</CHARACTER>
 	</CHARACTERS>
 	<PROJECTNOTES>
@@ -309,6 +326,32 @@ Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père q
 		<Items>
 		</Items>
 	</SCENE>
+	<SCENE>
+		<ID>7</ID>
+		<Title><![CDATA[IV : le gnome]]></Title>
+		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0718-07-22 14:00</SpecificDateTime>
+		<LastsMinutes>30</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>544</WordCount>
+		<LetterCount>3012</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+			<LocID>4</LocID>
+		</Locations>
+		<Items>
+			<ItemID>1</ItemID>
+		</Items>
+	</SCENE>
 	</SCENES>
 	<CHAPTERS>
 	<CHAPTER>
@@ -331,6 +374,7 @@ Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père q
 			<ScID>2</ScID>
 			<ScID>3</ScID>
 			<ScID>4</ScID>
+			<ScID>7</ScID>
 		</Scenes>
 	</CHAPTER>
 	<CHAPTER>
@@ -379,8 +423,8 @@ Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père q
 	</WC>
 	<WC>
 		<Date>2017-07-21</Date>
-		<Count>2959</Count>
-		<TotalCount>2959</TotalCount>
+		<Count>3503</Count>
+		<TotalCount>3503</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>
