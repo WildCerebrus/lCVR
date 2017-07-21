@@ -24,12 +24,12 @@
 		<HtmlSceneDivider></HtmlSceneDivider>
 		<HtmlEncoding></HtmlEncoding>
 		<HtmlUnicode>0</HtmlUnicode>
-		<LastFullBackup>2017-07-17</LastFullBackup>
+		<LastFullBackup>2017-07-21</LastFullBackup>
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
-		<MRUSpecificDate>0402-10-11</MRUSpecificDate>
-		<MRUSpecificTime>13:00</MRUSpecificTime>
-		<LastViewedScID>5</LastViewedScID>
+		<MRUSpecificDate>0402-12-23</MRUSpecificDate>
+		<MRUSpecificTime>23:00</MRUSpecificTime>
+		<LastViewedScID>6</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
 		<DeadlineDate2>1899-12-30</DeadlineDate2>
 		<DeadlineDate3>1899-12-30</DeadlineDate3>
@@ -55,6 +55,7 @@
 	<LOCATION>
 		<ID>3</ID>
 		<Title><![CDATA[Creux-du-Père]]></Title>
+		<SortOrder>3</SortOrder>
 	</LOCATION>
 	</LOCATIONS>
 	<ITEMS>
@@ -70,6 +71,7 @@ Hardunn le porte à l'index droit]]></Desc>
 		<ID>2</ID>
 		<Title><![CDATA[Journal de Draha]]></Title>
 		<Desc><![CDATA[Journal intime de Draha]]></Desc>
+		<SortOrder>2</SortOrder>
 	</ITEM>
 	</ITEMS>
 	<CHARACTERS>
@@ -125,6 +127,23 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 1m21 et 85kg]]></Desc>
 		<SortOrder>4</SortOrder>
 		<FullName><![CDATA[Boort du clan du Pied d'Acier]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Daesa]]></Title>
+		<Desc><![CDATA[Cousine de Draha
+
+Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père qui la violait]]></Desc>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Orkat]]></Title>
+		<Desc><![CDATA[Père de Draha]]></Desc>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Gunelda]]></Title>
+		<Desc><![CDATA[Mère de Draha]]></Desc>
 	</CHARACTER>
 	</CHARACTERS>
 	<PROJECTNOTES>
@@ -192,7 +211,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-22 07:00</SpecificDateTime>
+		<SpecificDateTime>0718-06-23 17:00</SpecificDateTime>
 		<LastsMinutes>30</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -218,7 +237,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-22 03:00</SpecificDateTime>
+		<SpecificDateTime>0718-06-23 21:00</SpecificDateTime>
 		<LastsMinutes>20</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -244,7 +263,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
 		<BelongsToChID>3</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0402-10-11 13:00</SpecificDateTime>
+		<SpecificDateTime>0402-10-12 11:00</SpecificDateTime>
 		<LastsMinutes>40</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -262,6 +281,32 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		</Locations>
 		<Items>
 			<ItemID>2</ItemID>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>6</ID>
+		<Title><![CDATA[l'ivrogne]]></Title>
+		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0402-12-23 23:00</SpecificDateTime>
+		<LastsMinutes>25</LastsMinutes>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>646</WordCount>
+		<LetterCount>3558</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+			<CharID>6</CharID>
+			<CharID>7</CharID>
+		</Characters>
+		<Locations>
+			<LocID>3</LocID>
+		</Locations>
+		<Items>
 		</Items>
 	</SCENE>
 	</SCENES>
@@ -297,6 +342,7 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<Type>0</Type>
 		<Scenes>
 			<ScID>5</ScID>
+			<ScID>6</ScID>
 		</Scenes>
 	</CHAPTER>
 	</CHAPTERS>
@@ -325,6 +371,16 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<Date>2017-07-19</Date>
 		<Count>2313</Count>
 		<TotalCount>2313</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-20</Date>
+		<Count>2313</Count>
+		<TotalCount>2313</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-21</Date>
+		<Count>2959</Count>
+		<TotalCount>2959</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>
