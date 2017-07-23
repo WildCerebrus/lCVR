@@ -24,12 +24,12 @@
 		<HtmlSceneDivider></HtmlSceneDivider>
 		<HtmlEncoding></HtmlEncoding>
 		<HtmlUnicode>0</HtmlUnicode>
-		<LastFullBackup>2017-07-21</LastFullBackup>
+		<LastFullBackup>2017-07-23</LastFullBackup>
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
-		<MRUSpecificDate>0718-07-22</MRUSpecificDate>
-		<MRUSpecificTime>14:00</MRUSpecificTime>
-		<LastViewedScID>7</LastViewedScID>
+		<MRUSpecificDate>0402-12-26</MRUSpecificDate>
+		<MRUSpecificTime>01:30</MRUSpecificTime>
+		<LastViewedScID>8</LastViewedScID>
 		<DeadlineDate1>1899-12-30</DeadlineDate1>
 		<DeadlineDate2>1899-12-30</DeadlineDate2>
 		<DeadlineDate3>1899-12-30</DeadlineDate3>
@@ -63,6 +63,7 @@
 		<Desc><![CDATA[Grand lac de près de 80 kilomètres de long (Ouest-Est) et 35 de large (Nord-Sud)
 
 Il est couvert de brumes depuis le Cataclysme et alimente le fleuve jaune en direction de Deux-Rus sur Mer]]></Desc>
+		<SortOrder>4</SortOrder>
 	</LOCATION>
 	</LOCATIONS>
 	<ITEMS>
@@ -141,16 +142,19 @@ Il règne sur le conseil de la ville et la guilde des voleurs et prétend que sa l
 		<Desc><![CDATA[Cousine de Draha
 
 Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père qui la violait]]></Desc>
+		<SortOrder>5</SortOrder>
 	</CHARACTER>
 	<CHARACTER>
 		<ID>6</ID>
 		<Title><![CDATA[Orkat]]></Title>
 		<Desc><![CDATA[Père de Draha]]></Desc>
+		<SortOrder>6</SortOrder>
 	</CHARACTER>
 	<CHARACTER>
 		<ID>7</ID>
 		<Title><![CDATA[Gunelda]]></Title>
 		<Desc><![CDATA[Mère de Draha]]></Desc>
+		<SortOrder>7</SortOrder>
 	</CHARACTER>
 	<CHARACTER>
 		<ID>8</ID>
@@ -160,6 +164,7 @@ Ses cheveux cachent son œil droit à cause d'une cicatrice laissée par son père q
 cheveux blancs avec des mèches teintes de couleurs vives
 peau jaune
 yeux vert clair]]></Desc>
+		<SortOrder>8</SortOrder>
 		<FullName><![CDATA[Rohan "L'Impromptu" Piedjoyeux]]></FullName>
 	</CHARACTER>
 	</CHARACTERS>
@@ -228,7 +233,7 @@ yeux vert clair]]></Desc>
 		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-23 17:00</SpecificDateTime>
+		<SpecificDateTime>0718-06-26 07:00</SpecificDateTime>
 		<LastsMinutes>30</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -254,7 +259,7 @@ yeux vert clair]]></Desc>
 		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-06-23 21:00</SpecificDateTime>
+		<SpecificDateTime>0718-06-26 03:00</SpecificDateTime>
 		<LastsMinutes>20</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -276,11 +281,11 @@ yeux vert clair]]></Desc>
 	</SCENE>
 	<SCENE>
 		<ID>5</ID>
-		<Title><![CDATA[le carnet]]></Title>
+		<Title><![CDATA[I : le carnet]]></Title>
 		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
 		<BelongsToChID>3</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0402-10-12 11:00</SpecificDateTime>
+		<SpecificDateTime>0402-10-15 13:00</SpecificDateTime>
 		<LastsMinutes>40</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -302,11 +307,11 @@ yeux vert clair]]></Desc>
 	</SCENE>
 	<SCENE>
 		<ID>6</ID>
-		<Title><![CDATA[l'ivrogne]]></Title>
+		<Title><![CDATA[II : l'ivrogne]]></Title>
 		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
 		<BelongsToChID>3</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0402-12-23 23:00</SpecificDateTime>
+		<SpecificDateTime>0402-12-26 01:00</SpecificDateTime>
 		<LastsMinutes>25</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -332,7 +337,7 @@ yeux vert clair]]></Desc>
 		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
 		<BelongsToChID>2</BelongsToChID>
 		<SpecificDateMode>-1</SpecificDateMode>
-		<SpecificDateTime>0718-07-22 14:00</SpecificDateTime>
+		<SpecificDateTime>0718-07-25 10:00</SpecificDateTime>
 		<LastsMinutes>30</LastsMinutes>
 		<Field1>1</Field1>
 		<Field2>1</Field2>
@@ -340,7 +345,7 @@ yeux vert clair]]></Desc>
 		<Field4>1</Field4>
 		<Status>2</Status>
 		<WordCount>544</WordCount>
-		<LetterCount>3012</LetterCount>
+		<LetterCount>3014</LetterCount>
 		<Characters>
 			<CharID>1</CharID>
 			<CharID>8</CharID>
@@ -350,6 +355,29 @@ yeux vert clair]]></Desc>
 		</Locations>
 		<Items>
 			<ItemID>1</ItemID>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>8</ID>
+		<Title><![CDATA[III : la fugue]]></Title>
+		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
+		<BelongsToChID>3</BelongsToChID>
+		<SpecificDateMode>-1</SpecificDateMode>
+		<SpecificDateTime>0402-12-26 01:30</SpecificDateTime>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>2</Status>
+		<WordCount>496</WordCount>
+		<LetterCount>2809</LetterCount>
+		<Characters>
+			<CharID>4</CharID>
+			<CharID>5</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
 		</Items>
 	</SCENE>
 	</SCENES>
@@ -387,6 +415,7 @@ yeux vert clair]]></Desc>
 		<Scenes>
 			<ScID>5</ScID>
 			<ScID>6</ScID>
+			<ScID>8</ScID>
 		</Scenes>
 	</CHAPTER>
 	</CHAPTERS>
@@ -425,6 +454,11 @@ yeux vert clair]]></Desc>
 		<Date>2017-07-21</Date>
 		<Count>3503</Count>
 		<TotalCount>3503</TotalCount>
+	</WC>
+	<WC>
+		<Date>2017-07-23</Date>
+		<Count>3999</Count>
+		<TotalCount>3999</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>
